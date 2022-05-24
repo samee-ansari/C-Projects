@@ -1,0 +1,6 @@
+Expense Report:
+Employee name: Samee Ansari
+Table expenses: $20
+Chair expenses: $15
+Pencil expenses: $10
+Total expenses:$45
